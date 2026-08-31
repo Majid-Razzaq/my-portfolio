@@ -1,7 +1,6 @@
-<?php $page = 'home'; ?>
+<?php $page = 'home';?>
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,19 +8,18 @@
     <title><?php $title = 'Abdul Majid Portfolio'; ?></title>
     <link rel="icon" href="images/Majid_logo.png" type="images/Majid_logo2.png">
     <link rel="icon" href="images/Majid_logo2.png">
-    <!-- Font Awesome links -->
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+           <!-- Font Awesome links -->
+     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
 
 </head>
-
 <body class="body">
 
-    <!-- Header -->
-    <?php include 'Header.php'; ?>
-    <!-- End here -->
+<!-- Header -->
+<?php  include 'Header.php';?>
+<!-- End here -->
 
-    <!-- Main Code Start -->
+<!-- Main Code Start -->
 
     <!-- banner section -->
     <section class="w3l-banner py-5" id="home">
@@ -30,11 +28,11 @@
                 <div class="col-md-6 banner-left pe-xl-5">
                     <h4 class="font">Hi, I'm Abdul Majid</h4>
                     <h3 class="mb-3 mt-1 font" style=""><span class="auto-type font"></span></h3>
-                    <p class="cont-para mb-sm-5 mb-4 font">I am passionate about web design and development, and strive to provide professional and innovative solutions for my clients.</p>
-                    <!-- <h5 class="banner-sub font" style="word-spacing:2px; font-size:18px">I am passionate about web design and development, and strive to provide professional and innovative solutions for my clients.
+                     <p class="cont-para mb-sm-5 mb-4 font">I am passionate about web design and development, and strive to provide professional and innovative solutions for my clients.</p>
+                   <!-- <h5 class="banner-sub font" style="word-spacing:2px; font-size:18px">I am passionate about web design and development, and strive to provide professional and innovative solutions for my clients.
                     </h5>-->
                     <div class="d-flex align-items-center buttons-banner mt-sm-5 mt-4">
-                        <a href=" https://www.fiverr.com/majid_razzaq" class="btn btn-style me-2 font">Hire Me</a>
+                        <a target="_blank" href=" https://www.fiverr.com/majid_razzaq" class="btn btn-style me-2 font">Hire Me</a>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -43,10 +41,10 @@
         </div>
         <!-- animations icons -->
 
-        <!--<div class="icon-effects-w3-1 text-right">
+       <!--<div class="icon-effects-w3-1 text-right">
             <img src="images/icon1.png" alt="" class="img-fluid">
         </div>-->
-        <!-- <div class="icon-effects-w3-2 text-right">
+     <!-- <div class="icon-effects-w3-2 text-right">
             <img src="images/icon1.png" alt="" class="img-fluid">
         </div>-->
         <!-- 
@@ -54,21 +52,21 @@
             <img src="images/icon1.png" alt="" class="img-fluid">
         </div>-->
 
-        <!-- <div class="icon-effects-w3-1 text-right">
+         <!-- <div class="icon-effects-w3-1 text-right">
             <img src="images/icon1.png" alt="" class="img-fluid">
         </div>-->
 
-        <!-- <div class="icon-effects-w3-4 text-right">
+         <!-- <div class="icon-effects-w3-4 text-right">
             <img src="images/icon1.png" alt="" class="img-fluid">
         </div>-->
 
         <!--   <div class="icon-effects-w3-4 text-right">
             <img src="images/icon1.png" alt="" class="img-fluid">
         </div>-->
-
-
-
-        <!-- <div class="icon-effects-w3-4 text-right">
+        
+       
+      
+          <!-- <div class="icon-effects-w3-4 text-right">
             <img src="images/icon6.png" alt="" class="img-fluid">
         </div> -->
         <!-- //animations icons -->
@@ -106,19 +104,20 @@
         <div class="container pt-lg-4">
             <div class="grids-area-hny main-cont-wthree-fea row">
                 <div class="col-md-3 col-sm-4 ps-xl-5">
-                    <h4 class="ab-exper-count mb-sm-4 ps-lg-4 ">{3}</h4>
+                    <h4 class="ab-exper-count mb-sm-4 ps-lg-4 ">{4}</h4>
                     <p class="ab-content p-1 font">years of experience working</p>
                 </div>
                 <div class="col-xl-8 col-md-9 col-sm-8 offset-xl-1 ps-xl-0 pe-xl-5 mt-sm-0 mt-4">
                     <h3 class="title-style mb-sm-5 mb-4 font descript">I'm passionate about creating stunning web designs that captivate and engage users.</h3>
                     <div class="row">
                         <div class="col-lg-4 col-md-6 grids-feature">
-                            <div class="area-box active">
+                        <div class="area-box active">
                                 <div class="icon-style">
-                                    <i class="fas fa-lightbulb"></i>
+<i class="fas fa-desktop"></i>
+
                                 </div>
-                                <h4><a href="#feature" class="title-head font">Creative Design</a></h4>
-                                <a href="about.html" class="btn more p-0 font">Explore More<i
+                                <h4><a href="#" class="title-head font">Creative Design</a></h4>
+                                <a target="_blank" href="https://www.fiverr.com/majid_razzaq/convert-xd-to-html-figma-to-html-psd-to-html-responsive-a62e" class="btn more p-0 font">Explore More<i
                                         class="fas fa-long-arrow-alt-right ms-1"></i></a>
                             </div>
                         </div>
@@ -127,18 +126,18 @@
                                 <div class="icon-style">
                                     <i class="fas fa-laptop-code"></i>
                                 </div>
-                                <h4><a href="https://www.fiverr.com/s/ZGLE44" class="title-head font">Web Design</a></h4>
-                                <a href="https://www.fiverr.com/s/ZGLE44" class="btn more p-0 font">Explore More<i
+                                <h4><a href="#" class="title-head font">Web Design</a></h4>
+                                <a target="_blank" href=" https://www.fiverr.com/majid_razzaq/create-professional-bootstrap-websites" class="btn more p-0 font">Explore More<i
                                         class="fas fa-long-arrow-alt-right ms-1"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 grids-feature mt-lg-0 mt-4">
                             <div class="area-box">
                                 <div class="icon-style">
-                                    <i class="fas fa-layer-group"></i>
+                                <i class="fab fa-android"></i>
                                 </div>
-                                <h4><a href="https://www.fiverr.com/s/34VzLr" class="title-head font">App Design</a></h4>
-                                <a href="https://www.fiverr.com/s/34VzLr" class="btn more p-0 font">Explore More<i
+                                <h4><a href="#" class="title-head font">App Design</a></h4>
+                                <a target="_blank" href="https://www.fiverr.com/majid_razzaq/develop-android-and-ios-app-using-flutter-firebase" class="btn more p-0 font">Explore More<i
                                         class="fas fa-long-arrow-alt-right ms-1"></i></a>
                             </div>
                         </div>
@@ -155,13 +154,13 @@
             <div class="row align-items-center">
                 <div class="col-lg-4">
                     <div class="position-relative">
-                        <img src="images/majid.png" style="height:400px;" alt="" class="radius-image img-fluid">
+                        <img src="images/majid.png" style="height:400px;"  alt="" class="radius-image img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-8 ps-lg-5 mt-lg-0 mt-5">
                     <h5 class="title-small mb-1">My Intro</h5>
                     <h3 class="font">About Me</h3>
-                    <p class="mt-3 font h6" style="word-spacing:2px;">Hey there, I'm Abdul Majid. I've been in the Web Development field for the last 3 years with enough experience and extensive knowledge in Core PHP, Laravel Framework, MySQL, and WordPress. I am also working as a web designer with front-end technologies like HTML5, CSS, JavaScript, JQuery, Bootstrap, and Adobe Photoshop. Now I'm a full-time Freelancer on Fiverr.</p>
+                    <p class="mt-3 font h6" style="word-spacing:2px;">Hey there, I'm Abdul Majid. I've been in the Web Development field for the last 4 years with enough experience and extensive knowledge in Core PHP, Laravel Framework, and MySQL. I am also working as a web designer with front-end technologies like HTML5, CSS, JavaScript, JQuery, Bootstrap, and Adobe Photoshop. Now I'm a full-time Freelancer on Fiverr.</p>
                     <div class="my-info mt-md-3 ">
                         <ul class="single-info">
                             <li class="name-style font">Name</li>
@@ -189,19 +188,17 @@
                             <li>:</li>
                             <li>
                                 <p>
-                                    <a class="font" href="mailto:abdulmajid22770@gmail.com">abdulmajid22770@gmail.com</a>
-                                </p>
+                                <a class="font" href="mailto:abdulmajid22770@gmail.com">abdulmajid22770@gmail.com</a></p>
                             </li>
                         </ul>
                     </div>
-                    <a href="Abdul Majid (Resume).pdf" Download class="btn btn-style mt-5 font">Download CV</a>
+                    <a href="Majid's Resume.pdf" Download class="btn btn-style mt-5 font">Download CV</a>
                 </div>
             </div>
         </div>
     </section>
     <!-- //about section -->
 
-    <!-- qualification section -->
     <!-- qualification section -->
     <section class="w3l-timeline-1 py-5" id="education">
         <div class="container py-lg-5 py-4">
@@ -222,7 +219,7 @@
                                 <h6 class="font"><i class="fas fa-file-code"></i> 2020 - 2023</h6>
                             </div>
                         </div>
-                        <div class="column">
+                         <div class="column">
                             <div class="title">
                                 <h2 class="font">Matric</h2>
                             </div>
@@ -251,38 +248,47 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-6 mt-lg-0 mt-4">
-                    <h5 class="sub-title-timeline font"><i class="fas fa-briefcase"></i> My Projects</h5>
+                    <h5 class="sub-title-timeline font"><i class="fas fa-layer-group"></i> My Projects</h5>
                     <div class="timeline">
                         <div class="column">
-                            <div class="title">
-                                <h2 class="font">Online Shopping Cart: </h2>
+                      <div class="title">
+                                <h2 class="font">Online Shopping Cart: <a class="fas fa-link" target="_blank" href="http://phpecommerce.great-site.net"></a></h2>
                             </div>
                             <div class="description">
                                 <p class="font">Implemented CRUD operations in PHP with MySQL for an online grocery store. Admin module for item management (insert, update, delete), user module for adding products to cart.</p>
-                                <h6><i class="fab fa-github font"><a class="font text-danger ps-2" href="https://github.com/Majid-Razzaq/php-ecommerce-Project">Github-URL</a></i></h6>
+                          <h6><i class="fab fa-github font"><a target="_blank" class="font text-danger ps-2" href="https://github.com/Majid-Razzaq/php-ecommerce-Project">Github-URL</a></i></h6>
 
                             </div>
                         </div>
                         <div class="column">
-                            <div class="title">
-                                <h2 class="font">Laravel BLOG Website:</h2>
+                          <div class="title">
+                                <h2 class="font">Laravel BLOG Website: <a class="fas fa-link" target="_blank" href="http://servicesblogspot.great-site.net/"></a> </h2>
                             </div>
                             <div class="description">
                                 <p class="font">Created a dynamic blog platform with PHP Laravel. Features include user-friendly post management, admin panel, and comment system. Built efficiently with Laravel's ORM and MVC architecture, ensuring scalability.</p>
-                                <h6><i class="fab fa-github font"><a class="font text-danger ps-2" href="https://github.com/Majid-Razzaq/Laravel-Blog-Website">Github-URL</a></i></h6>
+                                <h6><i class="fab fa-github font"><a target="_blank" class="font text-danger ps-2" href="https://github.com/Majid-Razzaq/Laravel-Blog-Website">Github-URL</a></i></h6>
                             </div>
                         </div>
                         <div class="column">
-                            <div class="title">
-                                <h2 class="font">Resume Builder:</h2>
+                             <div class="title">
+                                <h2 class="font">Job Portal Website: <a class="fas fa-link" target="_blank" href="http://jobportal.great-site.net"></a></h2>
                             </div>
                             <div class="description">
-                                <p class="font">I created a user-friendly resume builder website using core PHP. Users can easily create resumes with a streamlined process. It offers a seamless experience for resume creation.
+                                <p class="font">This job portal website lets users easily manage jobs, while admins handle categories and applications. The homepage offers quick search options for finding featured, popular, and latest jobs. Passwords are secure, with options to reset via email.
                                 </p>
-                                <h6><i class="fab fa-github font"><a class="font text-danger ps-2" href="https://github.com/Majid-Razzaq/PHP-ResumeMaker">Github-URL</a></i></h6>
+                                <h6><i class="fab fa-github font"><a target="_blank" class="font text-danger ps-2" href="https://github.com/Majid-Razzaq/PHP-ResumeMaker">Github-URL</a></i></h6>
+                               </div>
+
+                        </div>
+                         <div class="column">
+                             <div class="title">
+
+                                <h6 class="fas fa-search-plus text-dark"><a target="_blank" class="font text-danger ps-2 pt-3" href="https://github.com/Majid-Razzaq">Explore More Projects</a></h6>
                             </div>
                         </div>
+                         
 
                     </div>
                 </div>
@@ -292,7 +298,7 @@
     <!-- //qualification section -->
 
     <!-- skills section -->
-    <section class="w3l-progress py-5" id="progress">
+    <section class="w3l-progress py-5" id="skills">
         <div class="container py-md-5 py-4">
             <div class="title-heading-w3 text-center mb-sm-5 mb-4">
                 <h5 class="title-small mb-1 font">My Skills</h5>
@@ -335,14 +341,15 @@
                     </div>
                 </div>
                 <div class="col-lg-6 ps-lg-5 mt-lg-0 mt-5">
-                    <div class="progress-info info3">
-                        <h6 class="progress-tittle font">Flutter <span class="font">55%</span></h6>
+                 <div class="progress-info info1">
+                        <h6 class="progress-tittle font">Laravel <span class="font">80%</span></h6>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-striped gradient-3" role="progressbar"
-                                style="width:60%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
+                            <div class="progress-bar progress-bar-striped gradient-1" role="progressbar"
+                                style="width:80%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
                             </div>
                         </div>
                     </div>
+                 
                     <div class="progress-info info2">
                         <h6 class="progress-tittle font">PHP<span class="font">95%</span>
                         </h6>
@@ -352,7 +359,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="progress-info info3">
+                    <div class="progress-info info1">
                         <h6 class="progress-tittle font">Java <span class="font">80%</span></h6>
                         <div class="progress">
                             <div class="progress-bar progress-bar-striped gradient-1" role="progressbar"
@@ -374,8 +381,8 @@
     </section>
     <!-- //skills section -->
 
-    <!-- projects section -->
-    <section class="w3l-gallery pb-5" id="gallery">
+      <!-- projects section -->
+    <section class="w3l-gallery pb-5" id="projects">
         <div class="container py-md-5 py-4">
             <div class="title-heading-w3 text-center mb-sm-5 mb-4">
                 <h5 class="title-small mb-1 font">Portfolio</h5>
@@ -400,19 +407,19 @@
                         <span class="overlay__hover"></span>
                         <span class="hover-content">
                             <span class="title font">Project 2</span>
-                            <span class="content font">PHP Project.</span>
+                            <span class="content font">PHP Resume Builder Project.</span>
                         </span>
                     </a>
                 </div>
 
                 <div class="col-lg-4 col-md-6 item mt-lg-0 mt-4">
-                    <a href="images/laravel-blog.png" data-lightbox="example-set" data-title="Project 3"
+                    <a href="images/job_portalHome.png" data-lightbox="example-set" data-title="Project 3"
                         class="zoom d-block">
-                        <img class="card-img-bottom d-block" src="images/laravel-blog.png" alt="Card image cap">
+                        <img class="card-img-bottom d-block" src="images/job_portal.png" alt="Card image cap">
                         <span class="overlay__hover"></span>
                         <span class="hover-content">
                             <span class="title font">Project 3</span>
-                            <span class="content font">Web designing</span>
+                            <span class="content font">Laravel Job Portal</span>
                         </span>
                     </a>
                 </div>
@@ -424,31 +431,31 @@
                         <span class="overlay__hover"></span>
                         <span class="hover-content">
                             <span class="title font">Project 4</span>
-                            <span class="content font">Laravel CRUD Project</span>
+                            <span class="content font">Laravel Web App Project</span>
                         </span>
                     </a>
                 </div>
 
                 <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
-                    <a href="images/app2.jpg" data-lightbox="example-set" data-title="Project 5"
+                    <a href="images/androidProject.png" data-lightbox="example-set" data-title="Project 5"
                         class="zoom d-block">
-                        <img class="card-img-bottom d-block" src="images/app2.jpg" alt="Card image cap">
+                        <img class="card-img-bottom d-block" src="images/androidProject.png" alt="Card image cap">
                         <span class="overlay__hover"></span>
                         <span class="hover-content">
                             <span class="title font">Project 5</span>
-                            <span class="content font">MyFitnessPal Application</span>
+                            <span class="content font">Android Food Wastage Application</span>
                         </span>
                     </a>
                 </div>
 
                 <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
-                    <a href="images/furniture.png" data-lightbox="example-set" data-title="Project 6"
+                    <a href="images/EcomLandingPage.png" data-lightbox="example-set" data-title="Project 6"
                         class="zoom d-block">
-                        <img class="card-img-bottom d-block" src="images/furniture.png" alt="Card image cap">
+                        <img class="card-img-bottom d-block" src="images/onlineShopDisplay.png" alt="Card image cap">
                         <span class="overlay__hover"></span>
                         <span class="hover-content">
                             <span class="title font">Project 6</span>
-                            <span class="content font">Furnitre Application</span>
+                            <span class="content font">Laravel Ecommerce Project</span>
                         </span>
                     </a>
                 </div>
@@ -458,7 +465,7 @@
     <!-- //projects section -->
 
     <!-- home service section -->
-    <section class="w3l-servicesblock1 py-5" id="services">
+    <section class="w3l-servicesblock1 py-5" id="services" >
         <div class="container py-md-5 py-4">
             <div class="title-heading-w3 text-center mb-sm-5 mb-4">
                 <h5 class="title-small mb-1 font">What i do?</h5>
@@ -479,10 +486,10 @@
                     <div class="col-lg-3 col-md-6 mt-md-0 mt-4">
                         <div class="feature-gd icon-vilot">
                             <div class="icon">
-                                <i class="fas fa-mobile-alt"></i>
+                                <i class="fab fa-laravel fw-bold"></i>
                             </div>
                             <div class="icon-info">
-                                <a class="font" href="#url">Mobile app<br> development</a>
+                                <a class="font" href="#url"> Laravel Web <br>development</a>
                             </div>
                         </div>
                     </div>
@@ -499,7 +506,7 @@
                     <div class="col-lg-3 col-md-6 mt-lg-0 mt-md-5 mt-4">
                         <div class="feature-gd icon-red">
                             <div class="icon">
-                                <i class="fab fa-php"></i>
+                                <i class="fab fa-php fw-bold"></i>
                             </div>
                             <div class="icon-info">
                                 <a class="font" href="#url">Php Web<br> development</a>
@@ -548,18 +555,18 @@
                     </div>
                 </div>
             </div>
-
+            
         </div>
     </section>
     <!-- //home service section -->
 
+   
+<!-- Main Code End Here -->
 
-    <!-- Main Code End Here -->
-
-    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-    <script>
-        var typed = new Typed(".auto-type", {
-            strings: ["Designer", "Developer"],
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+        var typed = new Typed(".auto-type",{
+            strings:["Designer","Developer"],
             typeSpeed: 150,
             backSpeed: 150,
             loop: true,
@@ -568,20 +575,20 @@
     <!-- //MENU-JS -->
 
 
-    <!-- Footer Start -->
-    <?php include 'Footer.php'; ?>
-    <!-- End Here -->
+<!-- Footer Start -->
+<?php  include 'Footer.php';?>
+<!-- End Here -->
 
-    <!-- Js Links -->
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/lightbox-plus-jquery.min.js"></script>
-    <script src="js/owl.carousel.js"></script>
-    <script src="js/theme-change.js"></script>
-    <!-- End here -->
+<!-- Js Links -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/lightbox-plus-jquery.min.js"></script>
+<script src="js/owl.carousel.js"></script>
+<script src="js/theme-change.js"></script>
+<!-- End here -->
 
     <!-- Js scripts -->
-
+   
 
     <!-- common jquery plugin -->
     <script src="assets/js/jquery-3.3.1.min.js"></script>
@@ -594,7 +601,7 @@
     <!-- testimonials owlcarousel -->
     <script src="assets/js/owl.carousel.js"></script>
     <script>
-        $(document).ready(function() {
+        $(document).ready(function () {
             $('.owl-two').owlCarousel({
                 loop: true,
                 margin: 30,
@@ -633,7 +640,7 @@
 
     <!-- MENU-JS -->
     <script>
-        $(window).on("scroll", function() {
+        $(window).on("scroll", function () {
             var scroll = $(window).scrollTop();
 
             if (scroll >= 80) {
@@ -644,14 +651,14 @@
         });
 
         //Main navigation Active Class Add Remove
-        $(".navbar-toggler").on("click", function() {
+        $(".navbar-toggler").on("click", function () {
             $("header").toggleClass("active");
         });
-        $(document).on("ready", function() {
+        $(document).on("ready", function () {
             if ($(window).width() > 991) {
                 $("header").removeClass("active");
             }
-            $(window).on("resize", function() {
+            $(window).on("resize", function () {
                 if ($(window).width() > 991) {
                     $("header").removeClass("active");
                 }
@@ -662,8 +669,8 @@
 
     <!-- disable body scroll which navbar is in active -->
     <script>
-        $(function() {
-            $('.navbar-toggler').click(function() {
+        $(function () {
+            $('.navbar-toggler').click(function () {
                 $('body').toggleClass('noscroll');
             })
         });
@@ -676,5 +683,4 @@
     <!-- //Js scripts -->
 
 </body>
-
 </html>

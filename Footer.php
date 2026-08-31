@@ -16,7 +16,7 @@
                 <img src="images/Majid_logo2.png"  alt="" height="100%" width="150px" style="margin-left:-40px">        
                 <!-- <i class="fas fa-bold"></i>. -->
                 </a>
-                <p class="mt-4 text-white font">Thank you for visiting my portfolio! I specialize in web and app designing and development, with a focus on delivering high-quality results that meet my clients' unique needs.</p>
+                <p class="mt-4 text-white font">Thank you for visiting my portfolio! I specialize in web and app designing and development, with a focus on delivering high-quality results that meet my clients unique needs.</p>
                 <div class="social-icons-main mt-4 pb-3">
                     <ul class="social-icons3">
                         <li>
@@ -44,12 +44,19 @@
                                 <i class="fab fa-instagram"></i>
                             </a>
                         </li>
+                      <li>
+                        <a target=”_blank” href="https://ko-fi.com/abdulmajid#paypalModal">
+                            <i><img src="images/ko_fi.png"  alt="" height="30px" width="30px">        
+</i>
+                        </a>
+                    </li>
+
                     </ul>
                 </div>
             </div>
             <!-- copyright -->
-            <p class="copy-right-w3 text-white mt-5 pt-4 font">© 2022 Biodata. All rights reserved | Design by
-                <a href="#" target="_blank"> Abdul Majid</a>
+            <p class="copy-right-w3 text-white mt-5 pt-4 font">© <?php $year = date("Y"); echo $year; ?> Biodata. All rights reserved | Design by
+                <a href="#"> Abdul Majid</a>
             </p>
         </div>
     </footer>
@@ -59,6 +66,8 @@
     <button class="top_btn" onclick="topFunction()" id="movetop" title="Go to top">
         <span class="fas fa-level-up-alt" aria-hidden="true"></span>
     </button>
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
     <script>
         // When the user scrolls down 20px from the top of the document, show the button
         window.onscroll = function () {
@@ -82,4 +91,4 @@
     <!-- //move top -->
 
 </body>
-</html>
+</html> 
